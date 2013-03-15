@@ -98,8 +98,8 @@
   <project path="system/vold" name="platform/system/vold" />
 
   <!-- Milestone 2 specific things -->
-  <project path="device/motorola/milestone2" name="tezet/android_device_motorola_milestone2" remote="github" revision="ics" />
-  <project path="vendor/motorola" name="tezet/proprietary_vendor_motorola" remote="github" revision="ics" />
+  <project path="device/motorola/milestone2" name="Megalith27/android_device_motorola_milestone2" remote="github" revision="b2g-ics" />
+  <project path="vendor/motorola" name="Megalith27/proprietary_vendor_motorola" remote="github" revision="b2g-ics" />
   <project path="external/bootmenu" name="tezet/android_external_bootmenu" remote="github" revision="ics" />
   <project path="hardware/ti/omap3" name="tezet/android_hardware_ti_omap3-compat" remote="github" revision="ics" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" revision="ics" />
